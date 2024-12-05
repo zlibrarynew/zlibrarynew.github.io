@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TD导航(tdboxs.cn)</title>
+
+    <subtitle>TD导航(tdboxs.cn)，日常更新Zlibrary镜像、谷歌学术镜像入口</subtitle>
+    <link href="http://example.com/atom.xml" rel="self"/>
+
+    <link href="http://example.com/"/>
+    <updated>2024-11-26T16:51:09.121Z</updated>
+    <id>http://example.com/</id>
+
+    <author>
+        <name>TD导航</name>
+
+    </author>
+
+    <generator uri="https://hexo.io/">Hexo</generator>
+
+    <entry>
+        <title>td导航网zlibrary打不开怎么办，最新入口tdboxs.cn</title>
+        <published>2024-11-26T08:09:23.000Z</published>
+        <updated>2024-11-26T16:51:09.121Z</updated>
+
+
+        <summary type="html">&lt;p&gt;Z-Library（简称 Z-Lib，前身为 BookFinder）是全球最大的电子图书馆之一，拥有 1046 万本书和
+            8484 万篇文章。自 2009 年起提供免费电子书服务，但遭遇多次封锁，2024 年 5 月起停止国内宣传渠道，致使众多虚假域名（钓鱼网站）出现。&lt;/p&gt;
+        </summary>
+
+
+    </entry>
+
+</feed>
